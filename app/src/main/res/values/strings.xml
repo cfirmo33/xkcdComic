@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">XKCD Comie!</string>
+    <string name="app_description">Your daily dose of comics!</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="view_transcript">View transcript</string>
+    <string name="ok">Ok</string>
+    <string name="no_transcript_given">No transcript given</string>
+</resources>
